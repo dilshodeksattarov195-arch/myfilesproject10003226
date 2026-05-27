@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersncrypt",
+        "uuid": 26278996,
+        "checksum": "tx8fhe"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
